@@ -1,9 +1,9 @@
 +++
-title = "Analyzing Student Behavior in Online Programming Courses"
-date = 2018-05-25T00:00:00
+title = "Design of transmission device inspection auxiliary management system based on raspberry pi"
+date = 2019-12
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xinyu You", "Bohong Liu","Menghua Cao","Tao Wang","Yue Yu","Gang Yin"]
+authors = ["Zicong Jiang", "Liquan Zhao","Yanfei Jia"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -22,13 +22,13 @@ publication = "In *Source Themes Conference*"
 publication_short = "In *STC*"
 
 # Abstract.
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+#abstract = "In the traditonal transmission device inspection, the managers that are in remote management center can not master the work of transmission inspectors. When the transmission inspectors met some difficult problems, they can only use moble telephone to communicate with remote experts by voice communication. Due to that the remote experts can not see the fiel image, the remote experts can not give accurate guidance to solve the problems in some times. Especially, when the transmission inspectors work on high voltage transmission tower, they are not permitted to carry telephone. This limits the communication betwen the transmission inspectors and remote experts. To solve this problem, we design a transmission line inspection auxiliary management system based on rasperry pi. It is a wearble devices, and easily fixed to helmet or eyeglass frame. The remote experts or managers can use the system to communicatie with the field transmission inspectors by voice or video. The remote experts can mater the filed image at any time, and send usefully information to help the transmission inspectors to solve some difficult problem. The transimission inspectors can see the received information by a mirco display. The system realizes the remote visual supervision and guidance for transmission device inspection."
 
 # Summary. An optional shortened abstract.
-summary = "China-Europe International Symposium on Software Engineering Education(CEISEE), Shenzhen · China"
+summary = " ICITEE-2019: Proceedings of the 2nd International Conference on Information Technologies and Electrical Engineering. "
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1145/3386415.3387077"
 
 # Is this a featured publication? (true/false)
 featured = false
