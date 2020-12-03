@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Achievements"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -22,11 +22,11 @@ date_format = "Jan 2006"
   organization = "Chinese Association of Automation"
   # organization_url = "https://www.coursera.org"
   title = "First-class Award of CHINA ROBOT COMPETITION 2019"
-  # url = ""
-  # certificate_url = "https://www.coursera.org"
-  date_start = "2019-07"
-  date_end = "2019-09"
-  # description = ""
+  url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2019-07-10"
+  date_end = "2019-09-17"
+  description = ""
 
 [[item]]
   organization = "edX"
