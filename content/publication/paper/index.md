@@ -79,7 +79,7 @@ featured = false
 +++
 +++
 title = "Real-time object detection method based on improved YOLOv4-tiny"
-date = 2018-05-25T00:00:00
+date = 2020-11-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["BAob Smith", "David Jones"]`.
 authors = ["Zicong Jiang", "Liquan Zhao","Shuaiyang Li","Yanfei Jia"]
