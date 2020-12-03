@@ -18,8 +18,8 @@ authors = ["Zicong Jiang", "Liquan Zhao","Yanfei Jia"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Source Themes Conference*"
-publication_short = "In *STC*"
+#publication = "In *Source Themes Conference*"
+#publication_short = "In *STC*"
 
 # Abstract.
 #abstract = "In the traditonal transmission device inspection, the  managers that are in remote management center can not master the work of transmission inspectors. When the transmission inspectors met some difficult problems, they can only use moble telephone to communicate with remote experts by voice communication. Due to that the remote experts can not see the fiel image, the remote experts can not give accurate guidance to solve the problems in some times. Especially, when the transmission inspectors work on high voltage transmission tower, they are not permitted to carry telephone. This limits the communication betwen the transmission inspectors and remote experts. To solve this problem, we design a transmission line inspection auxiliary management system based on rasperry pi. It is a wearble devices, and easily fixed to helmet or eyeglass frame. The remote experts or managers can use the system to communicatie with the field transmission inspectors by voice or video. The  remote experts can mater the filed image at any time, and send usefully information to help the transmission inspectors to solve some difficult problem. The transimission inspectors can see the received information by a mirco display. The system realizes the  remote visual supervision and guidance for transmission device inspection."
@@ -79,5 +79,5 @@ featured = false
 +++
 
 {{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-# #markdown-latex/).
 {{% /alert %}}
