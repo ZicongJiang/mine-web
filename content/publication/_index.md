@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Design of transmission device inspection auxiliary management system based on raspberry pi"
+  image: "lunwen1.png"
 ---
