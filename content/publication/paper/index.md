@@ -77,7 +77,3 @@ featured = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-
-{{% alert note %}}
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-# #markdown-latex/).
-{{% /alert %}}
