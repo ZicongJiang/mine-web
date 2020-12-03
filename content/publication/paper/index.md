@@ -1,6 +1,6 @@
 +++
 title = "Analyzing Student Behavior in Online Programming Courses"
-date = 2018-05-25T00:00:00A
+date = 2018-05-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["BAob Smith", "David Jones"]`.
 authors = ["Xinyu You", "Bohong Liu","Menghua Cao","Tao Wang","Yue Yu","Gang Yin"]
