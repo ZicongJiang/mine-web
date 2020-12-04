@@ -103,10 +103,10 @@
     
   [[ja.menu.main]]
     name = "English"
-    url = "https://jiangzicong.netlify.app/"
+    url = "//"
     weight = 80
     
   [[ja.menu.main]]
     name = "中文"
-    url = "https://jiangzicong.netlify.app/zh/"
+    url = "zh/"
     weight = 90    
