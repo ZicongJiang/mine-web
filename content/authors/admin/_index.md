@@ -21,11 +21,11 @@ interests:
 - Computational Version
 - Signal Processing
 
-education:
-  courses:
-  - course: BSc in Communication Engineering
-    institution: Northeast Electric Power University
-    year: 2017-2021
+# education:
+#  courses:
+#  - course: BSc in Communication Engineering
+#    institution: Northeast Electric Power University
+#    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
