@@ -36,17 +36,17 @@
     
   [[zh.menu.main]]
     name = "获奖"
-    url = "#skills"
+    url = "#accomplishments"
     weight = 50
     
   [[zh.menu.main]]
     name = "发表"
-    url = "#skills"
+    url = "#publications"
     weight = 60
     
   [[zh.menu.main]]
     name = "联系"
-    url = "#skills"
+    url = "#contact"
     weight = 70
 
 
@@ -88,5 +88,5 @@
     
   [[ja.menu.main]]
     name = "連絡"
-    url = "#concat"
+    url = "#contact"
     weight = 70
