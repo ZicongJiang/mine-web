@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Zicong Jiang
+title: 蔣子聡(しょうしそう)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Bachelor(B4)
+role: 学部四年生
 
 # Organizations/Affiliations
 organizations:
-- name: Northeast ElectricPower University(NEEPU) 
+- name: 東北電力大学(NEEPU) 
   url: "http://www.neepu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Optical Communication
-- Computational Vision
-- Signal Processing
+- 光通信技術
+- コンピュータビジョン
+- 信号処理
 
 # education:
 #  courses:
@@ -63,13 +63,13 @@ user_groups:
 - Visitors
 ---
 
-- Hello, I am Zicong Jiang, a student of communication engineering at the Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology in NEEPU. My research interests include Optical Communication, Computer Vision and Signal Processing. I am researching Object Detection with Professor Liquan Zhao now. In daily life, I like playing computer games (especially FPS), and I also like singing and traveling, my favorite band is RADWIMPS and my favorite football team is Barcelona.
+- 初めまして、蔣子聡と申します。私は東北電力大学、通信工学の学部生です、そして、近代電力システムシミュレーションと制御および再生可能エネルギー技術研究所所属です。 私の研究興味には、光通信、コンピュータービジョン、信号処理などがあります。 私は現在、LiquanZhao教授のご指導のもと物体検出を研究しています。 日常生活の中には、コンピューターゲーム（特にFPS）をプレイするのが好きで、歌ったり旅行したりするのも好きです。私の好きなバンドはRADWIMPSで、好きなサッカーチームはバルセロナです。
 
 ---
-What I am doing Now?
+今何をやてるの？
 
-- I'm researching to propose a better Object detection method, and try to get the SOTA through improving the post-processing algorithm and designing a better backbone network structure.
-- Studying for master admission test.
-- Learning TOFEL and GRE !!
+- 私は画像処理と標的検出アルゴリズムの改良に関する研究を行っており、YOLOのアルゴリズムをベースに、後処理アルゴリズム、ネットワーク構造などを改良して、ネットワークコンピューティングの性能を向上させています。
+- 修士試験を合格為に勉強しています.
+- TOFELとGREを勉強している !!
 
 Update 12/04/2020
