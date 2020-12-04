@@ -4,7 +4,7 @@ date = 2019-11-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "RF Energy Harvesting System"
+title = "射频能量收集系统"
 
 # Project summary to display on homepage.
 summary = """
@@ -16,7 +16,7 @@ summary = """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Electronics"]
+tags = ["电子电路类"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "https://www.educoder.net/paths/130"
