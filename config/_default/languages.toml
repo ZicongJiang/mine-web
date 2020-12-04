@@ -64,49 +64,49 @@
   languageCode = "ja"
   contentDir = "content/ja"
   title = "私のウェブサイトへようこそ"
-  [zh.params]
+  [ja.params]
     description = "Site description in Japanese..."
-  [[zh.menu.main]]
+  [[ja.menu.main]]
     name = "基本情報"
     url = "#about"
     weight = 1
     
-  [[zh.menu.main]]
+  [[ja.menu.main]]
     name = "教育"
     url = "#education"
     weight = 21
     
-  [[zh.menu.main]]
+  [[ja.menu.main]]
     name = "スキル"
     url = "#skills"
     weight = 31
     
-  [[zh.menu.main]]
+  [[ja.menu.main]]
     name = "プロジェクト"
     url = "#projects"
     weight = 40
     
-  [[zh.menu.main]]
+  [[ja.menu.main]]
     name = "受賞"
     url = "#accomplishments"
     weight = 50
     
-  [[zh.menu.main]]
+  [[ja.menu.main]]
     name = "研究業績"
     url = "#publications"
     weight = 60
     
-  [[zh.menu.main]]
+  [[ja.menu.main]]
     name = "連絡"
     url = "#concat"
     weight = 70
     
-  [[zh.menu.main]]
+  [[ja.menu.main]]
     name = "English"
     url = "/en/"
     weight = 80
     
-  [[zh.menu.main]]
+  [[ja.menu.main]]
     name = "中文"
     url = "/zh/"
     weight = 90    
