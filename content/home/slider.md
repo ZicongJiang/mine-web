@@ -23,8 +23,8 @@ height = "500px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = ""  # An HTML color value.
-  overlay_img = "kimura.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_img = "kyushu.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
