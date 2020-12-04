@@ -4,7 +4,7 @@ date = 2019-12-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "DeepLearning-based Transmission Line Detection System"
+title = "Deep Learning-based Transmission Line Detection System"
 
 # Project summary to display on homepage.
 summary = """
