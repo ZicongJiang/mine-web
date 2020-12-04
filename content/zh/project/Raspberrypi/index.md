@@ -4,7 +4,7 @@ date = 2019-12-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "Deep Learning-based Transmission Line Detection System"
+title = "基于深度学习的输电线路巡检系统"
 
 # Project summary to display on homepage.
 summary = """
@@ -16,7 +16,7 @@ summary = """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["AI","Embedded device"]
+tags = ["人工智能类","嵌入式设备"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "https://www.educoder.net/paths/130"
