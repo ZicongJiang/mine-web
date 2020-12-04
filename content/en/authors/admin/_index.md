@@ -63,7 +63,7 @@ user_groups:
 - Visitors
 ---
 
-- Hello, I am Zicong Jiang, a student of communication engineering at the Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology in NEEPU. My research interests include Optical Communication, Computer Vision and Signal Processing. I am researching Object Detection with Professor Liquan Zhao now. In daily life, I like playing computer games (especially FPS), and I also like singing and traveling, my favorite band is RADWIMPS and my favorite football team is Barcelona.
+- Hello, I am Zicong Jiang, a student of communication engineering at the Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology in NEEPU. My research interests include Optical Communication, Computer Vision and Signal Processing. I am researching Object Detection with Professor Liquan Zhao now. In daily life, I like playing computer games (especially FPS), and I also like singing and traveling, my favorite band is RADWIMPS and my favorite football club is Barcelona.
 
 ---
 What am I doing Now?
