@@ -21,7 +21,7 @@
     
   [[zh.menu.main]]
     name = "教育经历"
-    url = "#education"
+    url = "#eduaction"
     weight = 21
     
   [[zh.menu.main]]
@@ -63,7 +63,7 @@
     
   [[ja.menu.main]]
     name = "教育"
-    url = "#education"
+    url = "#eduaction"
     weight = 21
     
   [[ja.menu.main]]
