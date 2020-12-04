@@ -46,7 +46,7 @@
   
 [[main]]
   name = "日本語"
-  url = "/jp/"
+  url = "/ja/"
   weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
