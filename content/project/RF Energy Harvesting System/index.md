@@ -8,7 +8,8 @@ title = "RF Energy Harvesting System"
 
 # Project summary to display on homepage.
 summary = """
- 1). Design a multi-band, wide-band, high-gain microstrip antenna so that it can efficiently collect RF energy in the frequency band mainly at 915MHz or 2.4GHz, and design a matching circuit and voltage doubler rectification circuit which finally enables the system to be applied to low-power devices such as Zigbee.
+Design a multi-band, wide-band, high-gain microstrip antenna so that it can efficiently collect RF energy in the frequency band mainly at 915MHz or 2.4GHz, and design a matching circuit and voltage doubler rectification circuit which finally enables the system to be applied to low-power devices such as Zigbee.
+ 1). Use algorithms to find the best structure and the best type of semiconductor of the circuit.
  2). Research the application of metamaterials technology in antennas to achieve better performance while ensuring miniaturization, and use intelligent algorithms for antenna structure.
  
  """
