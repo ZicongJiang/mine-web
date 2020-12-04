@@ -6,20 +6,20 @@ title: 蒋子聪
 superuser: true
 
 # Role/position
-role: Bachelor(B4)
+role: 本科大四
 
 # Organizations/Affiliations
 organizations:
-- name: Northeast ElectricPower University(NEEPU) 
+- name: 东北电力大学(NEEPU) 
   url: "http://www.neepu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Optical Communication
-- Computational Vision
-- Signal Processing
+- 光通信技术
+- 计算机视觉
+- 信号处理技术
 
 # education:
 #  courses:
@@ -63,13 +63,13 @@ user_groups:
 - Visitors
 ---
 
-- Hello, I am Zicong Jiang, a student of communication engineering at the Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology in NEEPU. My research interests include Optical Communication, Computer Vision and Signal Processing. I am researching Object Detection with Professor Liquan Zhao now. In daily life, I like playing computer games (especially FPS), and I also like singing and traveling, my favorite band is RADWIMPS and my favorite football team is Barcelona.
+- 您好，我是蒋子聪，是东北电力大学电气工程学院通信工程专业的学生，同时隶属于现代电力系统仿真与控制与可再生能源技术重点实验室。 我的研究兴趣包括光通信，计算机视觉和信号处理。 我现在在赵立权教授的指导下从事目标检测相关技术的研究。 在日常生活中，我喜欢玩电脑游戏（尤其是FPS），也喜欢唱歌和旅行，我最喜欢的乐队是RADWIMPS，我最喜欢的足球队是巴塞罗那。
 
 ---
-What I am doing Now?
+我现在在做什么？
 
-- I'm researching to propose a better Object detection method, and try to get the SOTA through improving the post-processing algorithm and designing a better backbone network structure.
-- Studying for master admission test.
-- Learning TOFEL and GRE !!
+- 我正在研究提出一种更好的目标检测方法，并尝试通过改进后处理算法和设计更好的深度学习网络结构来达到甚至超过SOTA。
+- 进行修士考试相关的复习.
+- 学习托福和GRE !!
 
-Update 12/04/2020
+更新日期 12/04/2020
