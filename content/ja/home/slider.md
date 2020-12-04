@@ -16,7 +16,7 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "News"
+  title = "ニュース"
   content = "I have my own website :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
