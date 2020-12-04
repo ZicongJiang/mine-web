@@ -54,7 +54,7 @@ featured = false
 #slides = "example"
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "https://dl.acm.org/doi/10.1145/3386415.3387077"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
