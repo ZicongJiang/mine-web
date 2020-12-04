@@ -35,8 +35,8 @@
   weight = 80
 
 [[main]]
-  name = "Concat"
-  url = "#contcat"
+  name = "Contact"
+  url = "#contact"
   weight = 88
 
 [[main]]
