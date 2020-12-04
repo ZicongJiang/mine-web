@@ -48,16 +48,6 @@
     name = "联系"
     url = "#skills"
     weight = 70
-    
-  [[zh.menu.main]]
-    name = "English"
-    url = "https://jiangzicong.netlify.app/"
-    weight = 80
-    
-  [[zh.menu.main]]
-    name = "日本語"
-    url = "https://jiangzicong.netlify.app/ja/"
-    weight = 90    
 
 
 [ja]
@@ -100,13 +90,3 @@
     name = "連絡"
     url = "#concat"
     weight = 70
-    
-  [[ja.menu.main]]
-    name = "English"
-    url = "https://jiangzicong.netlify.app/"
-    weight = 80
-    
-  [[ja.menu.main]]
-    name = "中文"
-    url = "https://jiangzicong.netlify.app/zh/"
-    weight = 90    
