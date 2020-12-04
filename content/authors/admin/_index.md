@@ -71,3 +71,5 @@ What I am doing Now?
 - I'm researching to propose a better Object detection method, and try to get the SOTA through improving the post-processing algorithm and designing a better backbone network structure.
 - Studying for master admission test.
 - Learning TOFEL and GRE !!
+
+Update 12/04/2020
