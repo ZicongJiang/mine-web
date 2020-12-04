@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Education"
+title = "教育经历"
 subtitle = ""
 
 # Date format for experience
@@ -18,17 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = " Northeast Electric Power University"
-  company = "B.S. in Communication Engineering"
+  title = "东北电力大学"
+  company = "通信工程 本科"
   company_url = "https://en.wikipedia.org/wiki/Northeast_Electric_Power_University"
-  location = "Jilin, China"
+  location = "中国，吉林省，吉林市"
   date_start = "2017-09-01"
   date_end = "2021-06-01"
   description = """
   
   * GPA 3.62/4.0
-  * Second-class Scholarship of Northeast Electric Power University (5 times)
-  * Innovation First-class Scholarship of Northeast Electric Power University
-  * Lab: Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology, Ministry of Education
+  * 二等优学奖学金 (5 次)
+  * 创新一等奖学金
+  * 实验室: 现代电力系统仿真与控制与可再生能源技术教育部重点实验室
   """
 +++
