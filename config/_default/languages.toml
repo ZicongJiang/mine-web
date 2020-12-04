@@ -15,12 +15,12 @@
   [zh.params]
     description = "Site description in Chinese..."
   [[zh.menu.main]]
-    name = "关于"
+    name = "关于我"
     url = "#about"
     weight = 1
     
   [[zh.menu.main]]
-    name = "教育"
+    name = "教育经历"
     url = "#education"
     weight = 21
     
@@ -30,22 +30,22 @@
     weight = 31
     
   [[zh.menu.main]]
-    name = "项目"
+    name = "项目经历"
     url = "#projects"
     weight = 40
     
   [[zh.menu.main]]
-    name = "获奖"
+    name = "获奖情况"
     url = "#accomplishments"
     weight = 50
     
   [[zh.menu.main]]
-    name = "发表"
+    name = "发表成果"
     url = "#publications"
     weight = 60
     
   [[zh.menu.main]]
-    name = "联系"
+    name = "联系我"
     url = "#contact"
     weight = 70
 
