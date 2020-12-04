@@ -16,8 +16,8 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "News"
-  content = "I have my own website :smile:"
+  title = "新闻"
+  content = "我创建了属于我的个人学术主页 :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
