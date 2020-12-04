@@ -17,12 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Python, C,C++"
+  name = "Programming"
+  description = "Python(Pytorch),HTML<br>JavaScript,C++,C"
   
 [[feature]]
   icon = "raspberry-pi"
   icon_pack = "fab"
   name = "Embedded design"
+  description = "STM32/STC89C51 series microcontrollers<br>Raspberry Pi,FPGA"
+  
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "Git, Pycharm, Jupyter<br>HFSS, ADS, Candence" 
   
 [[feature]]
   icon = "futbol"
