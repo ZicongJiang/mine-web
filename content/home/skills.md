@@ -37,12 +37,12 @@ subtitle = ""
 [[feature]]
   icon = "🍙"
   icon_pack = "emoji"
-  name = "Japanese(fluent)"
+  name = "Japanese(JLPT N2)"
   
 [[feature]]
   icon = "🍟"
   icon_pack = "emoji"
-  name = "English(fluent)"
+  name = "English(TOEIC 800)"
   
 # Uncomment to use emoji icons.
 # [[feature]]
