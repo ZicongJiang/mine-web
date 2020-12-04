@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Projects"
+title = "项目经历"
 subtitle = ""
 
 [content]
@@ -22,20 +22,20 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "All"
+     name = "全部"
      tag = "*"
   
    [[content.filter_button]]
-     name = "AI"
-     tag = "AI"
+     name = "人工智能类"
+     tag = "人工智能类"
      
    [[content.filter_button]]
-     name = "Electronics"
-     tag = "Electronics"
+     name = "电子电路类"
+     tag = "电子电路类"
      
    [[content.filter_button]]
-     name = "Embedded device"
-     tag = "Embedded device"
+     name = "嵌入式设备"
+     tag = "嵌入式设备"
      
   # [[content.filter_button]]
   #   name = "Other"
