@@ -17,40 +17,40 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Programming"
+  name = "プログラム"
   description = "Python(Pytorch),HTML<br>JavaScript,C++,C"
   
 [[feature]]
   icon = "raspberry-pi"
   icon_pack = "fab"
-  name = "Embedded design"
+  name = "組込み設計"
   description = "STM32/STC89C51 series microcontrollers<br>Raspberry Pi,FPGA"
   
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
-  name = "Tools"
+  name = "ツール"
   description = "Git, Pycharm, Jupyter<br>HFSS, ADS, Candence" 
   
 [[feature]]
   icon = "futbol"
   icon_pack = "fas"
-  name = "Football"
+  name = "サッカー"
   
 [[feature]]
   icon = "🍚"
   icon_pack = "emoji"
-  name = "Chinese(native)"
+  name = "中国語(native)"
 
 [[feature]]
   icon = "🍙"
   icon_pack = "emoji"
-  name = "Japanese(JLPT N2)"
+  name = "日本語(JLPT N2)"
   
 [[feature]]
   icon = "🍟"
   icon_pack = "emoji"
-  name = "English(TOEIC 800)"
+  name = "英語(TOEIC 800)"
   
 # Uncomment to use emoji icons.
 # [[feature]]
