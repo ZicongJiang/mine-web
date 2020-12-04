@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skill"
+title = "技能"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,40 +17,40 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Programming"
+  name = "编程"
   description = "Python(Pytorch),HTML<br>JavaScript,C++,C"
   
 [[feature]]
   icon = "raspberry-pi"
   icon_pack = "fab"
-  name = "Embedded design"
+  name = "嵌入式设计"
   description = "STM32/STC89C51 series microcontrollers<br>Raspberry Pi,FPGA"
   
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
-  name = "Tools"
+  name = "设计工具"
   description = "Git, Pycharm, Jupyter<br>HFSS, ADS, Candence" 
   
 [[feature]]
   icon = "futbol"
   icon_pack = "fas"
-  name = "Football"
+  name = "足球"
   
 [[feature]]
   icon = "🍚"
   icon_pack = "emoji"
-  name = "Chinese(native)"
+  name = "中文(母语)"
 
 [[feature]]
   icon = "🍙"
   icon_pack = "emoji"
-  name = "Japanese(JLPT N2)"
+  name = "日语(JLPT N2)"
   
 [[feature]]
   icon = "🍟"
   icon_pack = "emoji"
-  name = "English(TOEIC 800)"
+  name = "英语(TOEIC 800)"
   
 # Uncomment to use emoji icons.
 # [[feature]]
