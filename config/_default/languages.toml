@@ -51,12 +51,12 @@
     
   [[zh.menu.main]]
     name = "English"
-    url = "/en/"
+    url = "https://jiangzicong.netlify.app/"
     weight = 80
     
   [[zh.menu.main]]
     name = "日本語"
-    url = "/ja/"
+    url = "https://jiangzicong.netlify.app/ja/"
     weight = 90    
 
 
@@ -103,10 +103,10 @@
     
   [[ja.menu.main]]
     name = "English"
-    url = "/en/"
+    url = "https://jiangzicong.netlify.app/"
     weight = 80
     
   [[ja.menu.main]]
     name = "中文"
-    url = "/zh/"
+    url = "https://jiangzicong.netlify.app/zh/"
     weight = 90    
