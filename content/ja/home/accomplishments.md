@@ -44,8 +44,28 @@ date_format = "Jan 2006"
   title = "Championship of Jilin Provincial University Robot Competition"
   url = ""
   #certificate_url = "https://www.datacamp.com"
-  date_start = "2019-06-01"
-  date_end = "2019-06-10"
+  date_start = "2019-05-01"
+  date_end = "2019-05-25"
+  description = ""
+
+[[item]]
+  organization = "Department of Education of Jilin Province"
+  #organization_url = "https://www.datacamp.com"
+  title = "Second-class Award of National Undergraduate Electronics Design Contest"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2019-07-01"
+  date_end = "2019-07-10"
+  description = ""
+ 
+ [[item]]
+  organization = "Department of Education of Jilin Province"
+  #organization_url = "https://www.datacamp.com"
+  title = "Second-class Award of Chinese undergraduate computer design contest in Jilin Province"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2020-07-01"
+  date_end = "2020-07-10"
   description = ""
 
 +++
