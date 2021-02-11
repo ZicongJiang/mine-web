@@ -4,7 +4,7 @@ date = 2019-06-10T00:00:00
 layout = "project"
 
 # Project title.
-title = "QtおよびBeiDou衛星に基づく遠隔環境監視システム"
+title = "Remote Environment Monitoring System Based on Qt and BeiDou Satellite"
 
 # Project summary to display on homepage.
 summary = """
