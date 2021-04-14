@@ -42,8 +42,8 @@ height = "500px"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "My Vlog in Bilibili !"
   cta_url = "https://space.bilibili.com/12063109/video"
-  #cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
 
 #[[item]]
 # title = "Left"
