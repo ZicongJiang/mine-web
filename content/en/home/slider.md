@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 9  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -11,7 +11,7 @@ interval = false
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height = "500px"
+height = "300px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -42,8 +42,8 @@ height = "500px"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "My Vlog in Bilibili !"
   cta_url = "https://space.bilibili.com/12063109/video"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  #cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
 
 #[[item]]
 # title = "Left"
