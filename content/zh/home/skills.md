@@ -50,7 +50,8 @@ subtitle = ""
 [[feature]]
   icon = "🍟"
   icon_pack = "emoji"
-  name = "英语(TOEIC 800)"
+  name = "英语"
+  description = "TOEIC(800),CET-6" 
   
 # Uncomment to use emoji icons.
 # [[feature]]
