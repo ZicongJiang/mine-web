@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zicong Jiang
+title: Zicong Jiang(Zison)
 
 # Is this the primary user of the site?
 superuser: true
