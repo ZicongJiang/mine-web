@@ -29,6 +29,8 @@ date_format = "Jan 2006"
   * GPA 3.62/4.0
   * Second-class Scholarship of Northeast Electric Power University (5 times)
   * Innovation First-class Scholarship of Northeast Electric Power University
+  * Outstanding Students in NEEPU
+  * Football team, Student Union of School
   * Lab: Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology, Ministry of Education
   """
 +++
