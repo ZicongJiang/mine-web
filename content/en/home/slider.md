@@ -44,6 +44,17 @@ height = "500px"
   cta_url = "https://space.bilibili.com/12063109/video"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
+  
+[[item]]
+  title = "graduate"
+  content = "I graduated！"
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "graduate.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 #[[item]]
 # title = "Left"
