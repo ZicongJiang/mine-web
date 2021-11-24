@@ -67,4 +67,25 @@ date_format = "Jan 2006"
   date_start = "2020-07-01"
   date_end = "2020-07-10"
   description = ""
+  
+  [[item]]
+  organization = "Department of Education of Jilin Province"
+  #organization_url = "https://www.datacamp.com"
+  title = "First-class Award of The “Challenge Cup” in Jilin Province"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2020-07-11"
+  date_end = "2020-09-11"
+  description = ""
+  
+  [[item]]
+  organization = "Department of Education of Jilin Province"
+  #organization_url = "https://www.datacamp.com"
+  title = "Excellent graduation thesis in NEEPU"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2021-03-18"
+  date_end = "2021-07-02"
+  description = ""
+  
 +++
