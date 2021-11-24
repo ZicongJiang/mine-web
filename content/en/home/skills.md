@@ -18,7 +18,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Python(Pytorch),HTML<br>JavaScript,C++,C"
+  description = "Python(Pytorch),PHP<br>JavaScript,C++,C"
   
 [[feature]]
   icon = "raspberry-pi"
@@ -30,28 +30,13 @@ subtitle = ""
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
-  description = "Git, Pycharm, Jupyter<br>HFSS, ADS, Candence" 
+  description = "QT, Pycharm, Jupyter<br>HFSS, AD, Candence" 
   
 [[feature]]
-  icon = "futbol"
-  icon_pack = "fas"
-  name = "Football"
-  
-[[feature]]
-  icon = "🍚"
+  icon = ":speaking_head:"
   icon_pack = "emoji"
-  name = "Chinese(native)"
-
-[[feature]]
-  icon = "🍙"
-  icon_pack = "emoji"
-  name = "Japanese(JLPT N2)"
-  
-[[feature]]
-  icon = "🍟"
-  icon_pack = "emoji"
-  name = "English"
-  description = "TOEIC(800), CET-6"
+  name = "Language"
+  description = "Chinese(Native)<br>Japanese(JLPT N2)<br>English(TOFEL;TOEIC 800;CET-6)"
   
 # Uncomment to use emoji icons.
 # [[feature]]
