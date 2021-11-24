@@ -18,5 +18,5 @@ summary = """
 tags = ["AI"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "https://www.educoder.net/paths/130"
+external_link = "https://youtu.be/-F_UfRjvzZU"
 +++
