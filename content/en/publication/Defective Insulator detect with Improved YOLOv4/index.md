@@ -1,6 +1,6 @@
 +++
 title = "Defective insulator detection based on improved YOLOv4 [Submitted]"
-date = 2021-11-10T00:00:00
+date = 2021-12-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["BAob Smith", "David Jones"]`.
 authors = ["Liquan Zhao","Zicong Jiang","Yanfei Jia"]
