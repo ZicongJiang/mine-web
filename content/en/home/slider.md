@@ -30,7 +30,7 @@ height = "500px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  #cta_label = "My Vlog in Bilibili !"
+  cta_label = "My video address"
   cta_url = "https://space.bilibili.com/12063109/video"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
