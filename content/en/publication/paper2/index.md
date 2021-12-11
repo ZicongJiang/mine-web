@@ -54,7 +54,7 @@ featured = false
 #slides = "example"
 
 # Links (optional).
-url_pdf = "https://arxiv.org/ftp/arxiv/papers/2011/2011.04244.pdf"
+#url_pdf = "https://arxiv.org/ftp/arxiv/papers/2011/2011.04244.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
