@@ -15,34 +15,10 @@ height = "1000px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
-
-
-[[item]]
-  title = "News"
-  content = "I graduated！"
-  align = "left"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "graduate.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
-
-
-[[item]]
-  title = "News"
-  content = "I have my own website :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "star.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
   
 [[item]]
-  title = "News"
-  content = "I got Gopro9 to record my life"
+  title = "Vlog"
+  content = "My Video in Bilibili"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -54,7 +30,7 @@ height = "1000px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "My Vlog in Bilibili !"
+  #cta_label = "My Vlog in Bilibili !"
   cta_url = "https://space.bilibili.com/12063109/video"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
