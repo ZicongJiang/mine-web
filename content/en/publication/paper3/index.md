@@ -3,7 +3,7 @@ title = "Conditional adversarial domain adaption based on self-attention [Accept
 date = 2021-11-10T00:00:00
 
 # Authors. Comma separated list, e.g. `["BAob Smith", "David Jones"]`.
-authors = ["Liquan Zhao","Yupeng Zhang","Ziming Teng","Zicong Jiang","Ying Cui"."ZhongFeng Kan"]
+authors = ["Liquan Zhao","Yupeng Zhang","Ziming Teng","Zicong Jiang","Ying Cui","ZhongFeng Kan"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
