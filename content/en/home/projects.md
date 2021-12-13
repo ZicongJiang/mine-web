@@ -26,12 +26,12 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "AI"
+     name = "CS"
      tag = "AI"
      
    [[content.filter_button]]
-     name = "Electronics"
-     tag = "Electronics"
+     name = "EE"
+     tag = "EE"
      
    [[content.filter_button]]
      name = "Embedded device"
@@ -50,7 +50,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view =2
+  view =5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
