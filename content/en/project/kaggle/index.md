@@ -13,7 +13,7 @@ summary = """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["AI"]
+tags = ["CS"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.kaggle.com/c/demand-forecasting-kernels-only"
