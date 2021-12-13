@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   company_url = "https://www.kyushu-u.ac.jp/en/"
   location = "Fukuoka, Japan"
   date_start = "2021-10-01"
-  date_end = "2021-04-01"
+  date_end = "2022-04-01"
   description = """
   
   * Lab: Kimura Lab
