@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://en.wikipedia.org/wiki/Northeast_Electric_Power_University"
   location = "Jilin, China"
   date_start = "2017-09-01"
-  date_end = "2021-06-01"
+  date_end = "2021-07-03"
   description = """
   
   * GPA 3.62/4.0
