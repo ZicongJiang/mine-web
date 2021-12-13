@@ -27,16 +27,6 @@ date_format = "Jan 2006"
   date_start = "2019-07-10"
   date_end = "2019-09-17"
   description = ""
-
-[[item]]
-  organization = "Department of Education of Jilin Province"
-  # organization_url = "https://www.edx.org"
-  title = "First-class Award of The “Challenge Cup” in Jilin Province"
-  #url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  #certificate_url = "https://www.edx.org"
-  date_start = "2020-09-01"
-  date_end = "2020-09-11"
-  description = ""
   
 [[item]]
   organization = "Department of Education of Jilin Province"
