@@ -15,7 +15,7 @@ summary = """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["AI","Embedded device"]
+tags = ["CS","EE","Embedded device"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://youtu.be/rOjR2Qha34w"
