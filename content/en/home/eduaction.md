@@ -33,4 +33,16 @@ date_format = "Jan 2006"
   * Football team, Student Union of School
   * Lab: Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology, Ministry of Education
   """
+[[experience]]
+  title = " Kyushu University"
+  company = "Research Student"
+  company_url = "https://www.kyushu-u.ac.jp/en/"
+  location = "Fukuoka, Japan"
+  date_start = "2021-10-01"
+  date_end = "2021-04-01"
+  description = """
+  
+  * Lab: Kimura Lab
+  """  
+  
 +++
