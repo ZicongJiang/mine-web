@@ -81,6 +81,16 @@ date_format = "Jan 2006"
   [[item]]
   organization = "Department of Education of Jilin Province"
   #organization_url = "https://www.datacamp.com"
+  title = "Technology Talent Award of NEEPU"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2021-05-04"
+  date_end = "2021-05-04"
+  description = ""
+  
+  [[item]]
+  organization = "NEEPU"
+  #organization_url = "https://www.datacamp.com"
   title = "Excellent graduation thesis in NEEPU"
   url = ""
   #certificate_url = "https://www.datacamp.com"
