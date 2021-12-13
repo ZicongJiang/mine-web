@@ -54,7 +54,7 @@ social:
 email: "15867824015@163.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -63,13 +63,12 @@ user_groups:
 - Visitors
 ---
 
-- Hello, I am Zicong Jiang, a student of communication engineering at the Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology in NEEPU. My research interests include Optical Communication, Computer Vision and Signal Processing. I am researching Object Detection with Professor Liquan Zhao now. In daily life, I like playing computer games (especially FPS), and I also like singing and traveling, my favorite band is RADWIMPS and my favorite football club is Barcelona.
+- Hello, I am Zicong Jiang, a research student of Kimura Lab in Kyushu University. My research interests include Computer Vision, Signal Processing and Communication System. In daily life, I like playing computer games (especially FPS), and I also like music and traveling, my favorite band is RADWIMPS.
 
 ---
 What am I doing Now?
 
 - I'm researching to propose a better Object detection method, and try to get the SOTA through improving the post-processing algorithm and designing a better backbone network structure.
-- Studying for master admission test.
-- Learning TOFEL and GRE !!
+- Learn new knowledge through task driving, and try to make my own inventions.
 
-Update 12/04/2020
+Update 12/13/2021
