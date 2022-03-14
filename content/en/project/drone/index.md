@@ -8,14 +8,15 @@ title = "Autonomous drone attack *|Click to watch Video|*"
 
 # Project summary to display on homepage.
 summary = """
- 1).  Take off autonomously and reach the target location.<br>
- 2).  Use wings to chop up the target that needs to be attacked and avoid other targets.<br>
- 3).  Return and land autonomously
+/*Advisor:Prof Qiushi Zhang*/
+ ➢ Take off autonomously and reach the target location.<br>
+ ➢ Use wings to chop up the target that needs to be attacked and avoid other targets.<br>
+ ➢ Return and land autonomously
  """
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["CS","EE","Embedded device"]
+tags = ["All"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://youtu.be/-F_UfRjvzZU"
