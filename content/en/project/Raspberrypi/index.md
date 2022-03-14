@@ -9,8 +9,9 @@ title = "Deep Learning-based Transmission Line Detection System */Click to watch
 
 # Project summary to display on homepage.
 summary = """
-/*Advisor: Prof. Liquan Zhao*/
-/*2019.08-2021.07 School of Information Engineering, Northeast Electric Power University, CHINA*/
+*Advisor: Prof. Liquan Zhao<br>
+2019.08-2021.07 School of Information Engineering, Northeast Electric Power University, CHINA*
+
 ➢ Designed a pair of smart glasses based on Raspberry Pi, which can realize the remote transmission of information (video, 
 audio, text, photo, image and voice control), and real-time fault detection in the smart glasses terminal to give feedback for 
 better maintenance.<br>
