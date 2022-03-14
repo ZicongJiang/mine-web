@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   description = """
   
   * GPA: 3.55/4.0, Ranking: 5/80
+  * 
   * AWARDS & HONORS
   * 2017 Second-class Scholarship of Northeast Electric Power University
   * 2017 Third-class Award of National English Competition for College Students
