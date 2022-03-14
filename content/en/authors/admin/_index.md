@@ -68,7 +68,7 @@ user_groups:
 ---
 What am I doing Now?
 
-- I'm researching to propose a better Object detection method, and try to get the SOTA through improving the post-processing algorithm and designing a better backbone network structure.
+- I'm interested in coding theory and Machine Learning in Communication Systems, so I'm reviewing past knowledge, preparing for master's courses, and read literature related to research interests.
 - Learn new knowledge through task driving, and try to make my own inventions.
 
 Update 12/13/2021
