@@ -25,17 +25,17 @@ subtitle = ""
      name = "All"
      tag = "*"
   
-   [[content.filter_button]]
-     name = "CS"
-     tag = "AI"
+  #   [[content.filter_button]]
+   #  name = "CS"
+  #   tag = "AI"
      
-   [[content.filter_button]]
-     name = "EE"
-     tag = "EE"
+  # [[content.filter_button]]
+  #   name = "EE"
+  #   tag = "EE"
      
-   [[content.filter_button]]
-     name = "Embedded device"
-     tag = "Embedded device"
+  # [[content.filter_button]]
+  #  name = "Embedded device"
+  #    tag = "Embedded device"
      
   # [[content.filter_button]]
   #   name = "Other"
