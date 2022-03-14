@@ -26,9 +26,9 @@ date_format = "Jan 2006"
   date_end = "2021-07-03"
   description = """
   
-  * GPA: 3.55/4.0, Ranking: 5/80
+  * <b>GPA: 3.55/4.0, Ranking: 5/80</b>
   * 
-  * AWARDS & HONORS
+  * <b>AWARDS & HONORS</b>
   * 2017 Second-class Scholarship of Northeast Electric Power University
   * 2017 Third-class Award of National English Competition for College Students
   * 2018 Innovation Third-class Scholarship of Northeast Electric Power University
@@ -48,9 +48,9 @@ date_format = "Jan 2006"
   * 2021 Excellent Graduation Thesis at Northeast Electric Power University
   * 2021 Excellent League Member of Northeast Electric Power University
   * 
-  * CAMPUS ACTIVITIES
+  * <b>CAMPUS ACTIVITIES</b>
   * Football team
-  * Student Union of School 2017.11-2018.09 
+  * Student Union of School, 2017.11-2018.09 
   * Team leader of Smart Car in Hardware Department, Electric Practice Innovation Center, 2018.09-2019.09
   * Member of Drone Group in Robot Studio of Northeast Electric Power University, 2018.09-2021.07
   * Lab: Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology, Ministry of Education
