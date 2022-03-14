@@ -8,7 +8,7 @@ title = "Autonomous drone attack *|Click to watch Video|*"
 
 # Project summary to display on homepage.
 summary = """
-/*Advisor:Prof Qiushi Zhang*/
+*Advisor:Prof Qiushi Zhang*
  ➢ Take off autonomously and reach the target location.<br>
  ➢ Use wings to chop up the target that needs to be attacked and avoid other targets.<br>
  ➢ Return and land autonomously
