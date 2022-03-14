@@ -8,8 +8,10 @@ title = "Remote Environment Monitoring System Based on Qt and BeiDou Satellite"
 
 # Project summary to display on homepage.
 summary = """
-/*Advisor:Prof.Jianpo Li*/
-/*2019.04-2019.07 School of Information Engineering, Northeast Electric Power University, CHINA */
+
+*Advisor:Prof.Jianpo Li*
+*2019.04-2019.07 School of Information Engineering, Northeast Electric Power University, CHINA *
+
 ➢ Designed a software that uses “BeiDou” data transparent transmission to realize the reading of various sensor data in remote 
 environments through wireless transmission and real-time monitoring of the environment.</br>
 ➢ Used QtCreator software for the development (Qt uses C++ for programming), RS485 bus to read data by wire, and then
