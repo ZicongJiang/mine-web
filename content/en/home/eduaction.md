@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   * 2021 Excellent Graduation Thesis at Northeast Electric Power University
   * 2021 Excellent League Member of Northeast Electric Power University
   * 
-  * <n>CAMPUS ACTIVITIES</b>
+  * <b>CAMPUS ACTIVITIES</b>
   * Football team
   * Student Union of School 2017.11-2018.09 
   * Team leader of Smart Car in Hardware Department, Electric Practice Innovation Center, 2018.09-2019.09
