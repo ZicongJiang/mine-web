@@ -8,8 +8,14 @@ title = "Remote Environment Monitoring System Based on Qt and BeiDou Satellite"
 
 # Project summary to display on homepage.
 summary = """
- 1).  Design a software that uses “BeiDou” data transparent transmission to realize the reading of various sensor data in remote environments through wireless transmission and real-time monitoring of the environment.<br>
- 2).  Use QtCreator software for the development (Qt uses C++ for programming). Before using BeiDou transparent transmission, first realize the method of using RS485 bus to read data by wire, and then connect BeDou to realize BeiDou communication.<br>
+➢ Designed a software that uses “BeiDou” data transparent transmission to realize the reading of various sensor data in remote 
+environments through wireless transmission and real-time monitoring of the environment.</br>
+➢ Used QtCreator software for the development (Qt uses C++ for programming), RS485 bus to read data by wire, and then
+connectted BeDou to realize BeiDou communication.</br>
+➢ On the basis of the RS485 bus, three different sensors can be read and recorded at one time. The sensor to be read and the 
+corresponding reading interval can be set separately. The function of automatically searching the port and configuring the
+device number is realized.. On the basis of realizing wired reading, BeiDou transparent transmission is used to achieve short-range wireless data collection</br>
+
  """
 
 # Tags: can be used for filtering projects.
