@@ -26,12 +26,32 @@ date_format = "Jan 2006"
   date_end = "2021-07-03"
   description = """
   
-  * GPA 3.62/4.0
-  * Second-class Scholarship of Northeast Electric Power University (5 times)
-  * Innovation First-class Scholarship of Northeast Electric Power University
-  * Outstanding Student of NEEPU
-  * Technology Talent of NEEPU
-  * Football team, Student Union of School
+  * GPA: 3.55/4.0, Ranking: 5/80
+  * AWARDS & HONORS
+  * 2017 Second-class Scholarship of Northeast Electric Power University
+  * 2017 Third-class Award of National English Competition for College Students
+  * 2018 Innovation Third-class Scholarship of Northeast Electric Power University
+  * 2018 Second-class Scholarship of Northeast Electric Power University
+  * 2018 Third-class Award of “Changtong Cup” Electronic Design Competition
+  * 2018 Excellent League Member of Northeast Electric Power University
+  * 2019 Innovation First-class Scholarship of Northeast Electric Power University
+  * 2019 Championship of Jilin Provincial University Robot Competition
+  * 2019 Second-class Scholarship of Northeast Electric Power University
+  * 2019 Second-class Award of National Undergraduate Electronics Design Contest
+  * 2019 First-class Award of China Robot Competition
+  * 2019 Excellent League Member of Northeast Electric Power University
+  * 2020 Second-class Award of Chinese Undergraduate Computer Design Contest in Jilin Province
+  * 2020 First-class Award of The “Challenge Cup” in Jilin Province
+  * 2020 Third-class Scholarship of Northeast Electric Power University
+  * 2020 Outstanding Student of Northeast Electric Power University
+  * 2021 Excellent Graduation Thesis at Northeast Electric Power University
+  * 2021 Excellent League Member of Northeast Electric Power University
+  * 
+  * CAMPUS ACTIVITIES
+  * Football team
+  * Student Union of School 2017.11-2018.09 
+  * Team leader of Smart Car in Hardware Department, Electric Practice Innovation Center, 2018.09-2019.09
+  * Member of Drone Group in Robot Studio of Northeast Electric Power University, 2018.09-2021.07
   * Lab: Key Laboratory of Modern Power System Simulation and Control and Renewable Energy Technology, Ministry of Education
   """
 [[experience]]
