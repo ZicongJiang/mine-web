@@ -71,4 +71,4 @@ What am I doing Now?
 - I am interested in coding theory and Machine Learning in Communication Systems, so I am reviewing past knowledge, preparing for master's courses, and read literature related to research interests.
 - Learn new knowledge through task driving, and try to make my own inventions.
 
-Update 12/13/2021
+Update 08/12/2022
