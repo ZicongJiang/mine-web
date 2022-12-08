@@ -6,12 +6,12 @@ title: Zicong Jiang(Zison)
 superuser: true
 
 # Role/position
-role: Research Student
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
-- name: Kyushu University 
-  url: "https://www.kyushu-u.ac.jp/en/"
+- name: Technical University of Denmark
+  url: "https://www.dtu.dk/english"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -51,7 +51,7 @@ social:
   link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "15867824015@163.com"
+email: "zicongjiang1999@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -63,7 +63,7 @@ user_groups:
 - Visitors
 ---
 
-- Hello, I am Zicong Jiang, a research student of Kimura Lab in Kyushu University. My research interests include Computer Vision, Signal Processing and Communication System. In daily life, I like playing computer games (especially FPS), and I also like music and traveling, my favorite band is RADWIMPS.
+- Hello, I am Zicong Jiang, a Master's student in Technical University of Denmark, and I am a student assistant in SPOC with the project of LiDAR, I also do a project about machine learning based optical communication systems in SPOC. My research interests include machine learning in communication systems, Signal Processing. In daily life, I like playing computer games (especially FPS), and I also like music and traveling, my favorite band is RADWIMPS.
 
 ---
 What am I doing Now?
