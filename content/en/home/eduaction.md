@@ -67,4 +67,15 @@ date_format = "Jan 2006"
   * Lab: Kimura Lab
   """  
   
+  [[experience]]
+  title = " Kyushu University"
+  company = "Msc Student"
+  company_url = "https://www.dtu.dk/english"
+  location = "Copenhagen, Denmark"
+  date_start = "2022-08-29"
+  date_end = ""
+  description = """
+  """  
+  
+  Technical University of Denmark
 +++
