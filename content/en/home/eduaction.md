@@ -73,7 +73,7 @@ date_format = "Jan 2006"
   company_url = "https://www.dtu.dk/english"
   location = "Copenhagen, Denmark"
   date_start = "2022-08-29"
-  date_end = ""
+  date_end = "Now"
   description = """
   """  
   
